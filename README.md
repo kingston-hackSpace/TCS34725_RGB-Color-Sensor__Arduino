@@ -13,7 +13,6 @@ The TCS3472 sensor provides a digital return of red, green, blue (RGB), and clea
 ----
 ### WIRING
 
-
 Arduino UNO|RGB Sensor
 -|-
 GND | GND
@@ -21,7 +20,7 @@ GND | GND
 A4 | SDA
 A5 | SCL (I2C Clock signal)
 
-Reference image [here]
+Reference image [here](https://github.com/kingston-hackSpace/TCS34725_RGB-Color-Sensor/blob/main/WiringDiagram_RGB-Sensor.png)
 
 ----
 ### CODE AND INSTRUCTIONS
