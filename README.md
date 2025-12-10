@@ -1,4 +1,4 @@
-# TCS34725 RGB-Color-Sensor
+# TCS34725 RGB-Color-Sensor___Arduino
 
 The TCS3472 sensor provides a digital return of red, green, blue (RGB), and clear light sensing values. An RGB Color sensor helps you accurately detect an object’s colour in your Arduino projects.
 
@@ -14,7 +14,7 @@ The LED pin can be pulled low to turn off the LED. This can be done by:
   2. Wiring to a spare digital pin and control it with digitalWrite().
 
 ----
-# TUTORIAL SET-UP
+# TUTORIAL SET-UP for Arduino
 ----
 ### HARDWARE
 
