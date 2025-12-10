@@ -1,6 +1,6 @@
 # TCS34725 RGB-Color-Sensor___Arduino
 
-The TCS3472 sensor provides a digital return of red, green, blue (RGB), and clear light sensing values. An RGB Color sensor helps you accurately detect an object’s colour in your Arduino projects.
+The [TCS34725 RGB sensor](https://learn.adafruit.com/adafruit-color-sensors/overview) provides a digital return of red, green, blue (RGB), and clear light sensing values. An RGB Color sensor helps you accurately detect an object’s colour in your Arduino projects.
 
 ----
 **TCS34725 on-board white LED**
