@@ -35,7 +35,7 @@ A5 | SCL (I2C Clock signal)
 ## TUTORIAL 1: Visualizing RGB-sensor data in the Arduino Serial Monitor
 ----
    
-- Download the corresponding libraries [Adafruit_TCS34725](https://github.com/adafruit/Adafruit_TCS34725)
+- Download the corresponding libraries [Adafruit_TCS34725](https://github.com/CamilaColussi-KSA/Adafruit_TCS34725)
 
 - Install the libraries via "Importing a .zip Library". Instructions [here](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
 
