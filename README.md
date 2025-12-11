@@ -46,7 +46,7 @@ A5 | SCL (I2C Clock signal)
 
 - Open Arduino's Serial Monitor to see the incoming data.
 
-
+- Visit [this link](https://github.com/kingston-hackSpace/TCS34725_RGB-Color-Sensor__Arduino/blob/main/Understanding_the_values.md) for further understanding of your sensor's incoming data.
 
 ----
 
